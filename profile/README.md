@@ -1,4 +1,4 @@
-# 2023 문화데이터활용 경진대회 출품작 - LOCAL HOLIDAY
+# 2023 문화데이터활용 경진대회 장려상 수상작 - LOCAL HOLIDAY
 
 ![image](https://github.com/LocalHoliday/LocalHoliday-Web/assets/85864699/c822cd8c-1c59-4d09-b2a9-4e78b2a17e4b)
 
